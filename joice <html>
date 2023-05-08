@@ -1,0 +1,19 @@
+<DOCTYPE html>
+<htlm lang="pt">
+<head>
+<meta charset="utf-8"> 
+<meta http-equiv="x-ua-Compatible" content="IE=edge">
+<meta name="viewport" content="width=divice-width, initial-scale=1.0">
+<title>Turma G>/title>
+<link real="stylesheet" hret="style.css"
+</head>
+<body>
+<header class="cabeçalho">
+<img class="cabeçalho-logo" src="CEEV logo.png"alt="Logo do colégio">
+<ul classe="cabeçaçho lista">
+<li class="cabeçalho-itens">Alunos</li>
+<li class="cabeçalho-itens">Professores</li>
+</ul>
+
+</header>
+<section class="escola">
